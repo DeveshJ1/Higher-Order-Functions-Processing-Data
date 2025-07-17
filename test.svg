@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+<rect x="0" y="100" width="200" height="144" fill="blue">
+</rect>
+<rect x="250" y="100" width="200" height="125" fill="yellow">
+</rect>
+<rect x="500" y="100" width="200" height="114" fill="black">
+</rect>
+<text x="0" y="260" fontsize="70" fill="black">Murray Bartlett 144
+</text>
+<text x="250" y="260" fontsize="70" fill="black">Jonathan Groff 125
+</text>
+<text x="500" y="260" fontsize="70" fill="black">Hugh Laurie 114
+</text>
+</svg>
